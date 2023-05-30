@@ -1,6 +1,6 @@
 # magic_8_ball
 
-A new Flutter project.
+https://github.com/egesg/magic_8_ball/assets/122566233/8d57cdbd-3518-4ffc-972c-842f4386d226
 
 ## Getting Started
 
