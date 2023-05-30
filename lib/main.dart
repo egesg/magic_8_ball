@@ -35,7 +35,12 @@ class _BallState extends State<Ball> {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Image.asset('images/ball1.png'),
+      child: GestureDetector(
+        onTap: () {
+          print('Ball got clicked');
+        },
+        child: Image.asset('images/ball1.png'),
+      ),
     );
   }
 }
